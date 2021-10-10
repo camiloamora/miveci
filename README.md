@@ -15,7 +15,6 @@ Con los siguientes feautures:
 Objetivos
 
 * [x] Diagrama del full stack
-   ![architecture.drawio.png](architecture.drawio.png)
 * [x] Diagrama de base de datos
 * [x] Diseño del api
 * [x] Documentaciòn del api
@@ -44,3 +43,20 @@ Objetivos
 * [x] Diseño responsive feed
 * [x] Deploy en netifly
     * https://laughing-dubinsky-2a7353.netlify.app/
+
+
+## Diagrama del full stack
+
+   ![architecture.drawio.png](architecture.drawio.png)
+   
+## Diagrama de base de datos
+   ![base de datos.png](base de datos.png)
+   
+## print api doc
+ ![screenapidoc](screenapidoc)
+ 
+## pantallas del cliente
+![screen1](screen1)
+![screen2](screen2)
+![screen3](screen3)
+![screen4](screen4)
