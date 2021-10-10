@@ -57,6 +57,9 @@ Objetivos
  
 ## pantallas del cliente
 ![screen1.png](screen1.png)
+
 ![screen.png](screen2.png)
+
 ![screen3.png](screen3.png)
+
 ![screen4.png](screen4.png)
