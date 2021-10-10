@@ -21,24 +21,25 @@ Objetivos
 * [x] Diseño responsive del feed
 * [x] HU001 Layout
 * [x] HU002 Lista de post
-* [ ] Publicaciòn de post
-* [ ] Publicar comentario
-* [ ] Ver detalles de un post
+* [] Publicaciòn de post
+* [] Publicar comentario
+* [] Ver detalles de un post
 
 
 ## Backend
 * [x] crear backend con node js and express, pruebas unitarias 
     * https://github.com/camiloamora/miveciapi
-* [ ] documentación Api
+* [] documentación Api
     * https://miveciapi.vercel.app/apidoc/
 * [x] Base de datos mysql
 * [x] Deploy en vercel
 
 ## Cliente
 * [x] crear client con react 
-* [ ] Integrar pruebas unitarias
+      * https://github.com/camiloamora/miveciclient
+* [] Integrar pruebas unitarias
 * [x] Integrar hooks
-* [ ] Integrar redux
+* [] Integrar redux
 * [x] Diseño responsive feed
 * [x] Deploy en netifly
     * https://laughing-dubinsky-2a7353.netlify.app/
