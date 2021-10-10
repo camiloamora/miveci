@@ -53,10 +53,10 @@ Objetivos
    ![base de datos.png](base de datos.png)
    
 ## print api doc
- ![screenapidoc](screenapidoc)
+ ![screenapidoc.png](screenapidoc)
  
 ## pantallas del cliente
-![screen1](screen1)
-![screen2](screen2)
-![screen3](screen3)
-![screen4](screen4)
+![screen1.png](screen1)
+![screen.png](screen2)
+![screen3.png](screen3)
+![screen4.png](screen4)
