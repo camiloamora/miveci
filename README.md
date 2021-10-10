@@ -15,6 +15,7 @@ Con los siguientes feautures:
 Objetivos
 
 * [x] Diagrama del full stack
+   ![architecture.drawio.png](architecture.drawio.png)
 * [x] Diagrama de base de datos
 * [x] Diseño del api
 * [x] Documentaciòn del api
